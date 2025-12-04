@@ -1,1 +1,3 @@
+![snake gif](https://github.com/simix-viniciussilva/simix-viniciussilva/blob/output/github-contribution-grid-snake.svg)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/simix-viniciussilva?cardType=github&theme=dracula&preferLogin=false&Title=176FCA&Ring=176FCA&Border=000000&Text=176FCA)](https://git.io/awesome-stats-card)
